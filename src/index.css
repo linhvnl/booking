@@ -1,0 +1,24 @@
+.bg-primary-cus {
+  background-color: #364fc7;
+  /* INDIGO 9 */
+}
+
+.bg-btn-cus {
+  background-color: #228be6;
+  /* INDIGO 5 */
+}
+
+.bg-light-cus {
+  background-color: #edf2ff;
+  /* INDIGO 0 */
+}
+
+.text-cus-grape {
+  color: #862e9c;
+  /* GRAPE 9 */
+}
+
+.text-primary-cus {
+  color: #364fc7;
+  /* GRAPE 9 */
+}
